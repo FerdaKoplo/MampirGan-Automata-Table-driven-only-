@@ -1,0 +1,14 @@
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\MampirGan(Automata, dan Table driven).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\MampirGan(Automata, dan Table driven).AssemblyInfoInputs.cache
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\MampirGan(Automata, dan Table driven).AssemblyInfo.cs
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\MampirGan(Automata, dan Table driven).csproj.CoreCompileInputs.cache
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\bin\Debug\net8.0\MampirGan(Automata, dan Table driven).exe
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\bin\Debug\net8.0\MampirGan(Automata, dan Table driven).deps.json
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\bin\Debug\net8.0\MampirGan(Automata, dan Table driven).runtimeconfig.json
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\bin\Debug\net8.0\MampirGan(Automata, dan Table driven).dll
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\bin\Debug\net8.0\MampirGan(Automata, dan Table driven).pdb
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\MampirGan(Automata, dan Table driven).dll
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\refint\MampirGan(Automata, dan Table driven).dll
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\MampirGan(Automata, dan Table driven).pdb
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\MampirGan(Automata, dan Table driven).genruntimeconfig.cache
+C:\Users\IVAN\source\repos\MampirGan(Automata, dan Table driven)\MampirGan(Automata, dan Table driven)\obj\Debug\net8.0\ref\MampirGan(Automata, dan Table driven).dll

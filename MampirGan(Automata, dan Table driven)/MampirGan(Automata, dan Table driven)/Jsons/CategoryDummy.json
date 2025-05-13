@@ -1,0 +1,13 @@
+[
+  {
+    "CategoryID": 1,
+    "CategoryName": "Makanan",
+    "Description": "Makanan ringan dan berat"
+  }
+  ,
+  {
+    "CategoryID": 2,
+    "CategoryName": "Minuman",
+    "Description": "Minuman segar dan kemasan"
+  }
+]

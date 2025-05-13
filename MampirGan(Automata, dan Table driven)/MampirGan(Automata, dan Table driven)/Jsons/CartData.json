@@ -1,0 +1,20 @@
+[
+  {
+    "CartID": 281,
+    "ProductID": 1,
+    "products": {
+      "ProductID": 1,
+      "ProductName": "Indomie Goreng",
+      "Price": 3000,
+      "Stock": 50,
+      "CategoryID": 1,
+      "Category": {
+        "CategoryID": 1,
+        "CategoryName": "Makanan",
+        "Description": "Makanan ringan",
+        "Products": []
+      }
+    },
+    "Quantity": 12
+  }
+]
